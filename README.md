@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/kmy_YNhl0mw" target="_blank">
       <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
-    </a>
   <br />
 
   <div>
@@ -14,10 +12,6 @@
 
 
 <h3 align="center">Full Stack Uber Clone</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -33,13 +27,9 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube
-channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+This repository contains the code corresponding.
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects
-like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/kmy_YNhl0mw" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" />
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -48,10 +38,7 @@ handling payments, serverless Postgres for managing databases, and styled with T
 mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's
 skills in a unique manner that creates a lasting impact.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" />
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -113,8 +100,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/uber.git
-cd uber
+git clone https://github.com/Qusai007/uber-main.git
+cd uber-main
 ```
 
 **Installation**
@@ -1712,52 +1699,11 @@ export const useDriverStore = create<DriverStore>((set) => ({
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-You can find important links mentioned in the YouTube video below:
-
-- <a href="https://www.nativewind.dev/quick-starts/expo" target="_blank">Expo NativeWind Setup</a>
-- <a href="https://www.nativewind.dev/v4/getting-started/typescript" target="_blank">TypeScript Support for
-  NativeWind</a>
-- <a href="https://docs.expo.dev/guides/using-eslint/" target="_blank">Eslint and Prettier Setup</a>
-- <a href="https://jb.gg/JSMastery" target="_blank">Download FREE WebStorm</a>
-- <a href="https://neon.tech/" target="_blank">Serverless NeonDB</a>
-- <a href="https://go.clerk.com/DtiSBEI" target="_blank">Clerk Auth</a>
-- <a href="https://courses.jsmastery.pro/course/databases" target="_blank">Database Mastery Course</a>
-- <a href="https://clerk.com/docs/quickstarts/expo" target="_blank">Clerk Expo Quickstart</a>
-- <a href="https://clerk.com/docs/custom-flows/oauth-connections" target="_blank">Clerk Expo OAuth</a>
-- <a href="https://www.geoapify.com/" target="_blank">Geoapify Map</a>
-- <a href="https://docs.stripe.com/payments/accept-a-payment?platform=react-native&ui=payment-sheet" target="_blank">
-  Stripe React Native SDK</a>
-- <a href="https://docs.stripe.com/payments/accept-a-payment-deferred" target="_blank">Stripe</a>
-
-## <a name="assets">📦 Assets</a>
-
-Assets used in the project can be
-found [here](https://drive.google.com/file/d/1ekttG-aCyy4g0SKqLSrEn_uHf2MJMRJ4/view?usp=sharing)
+- [My GitHub](https://github.com/Qusai007/)
+- [My LinkedIn](https://www.linkedin.com/in/qusai-johar/)
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop
-into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your
-confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
+If you found this tutorial helpful, please consider giving it a star! ⭐
 
 #
